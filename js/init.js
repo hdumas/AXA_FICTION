@@ -1,7 +1,4 @@
-(function($){
-  $(function(){
+$(document).ready(function(){
+    $('.modal').modal();
+  });
 
-    $('.sidenav').sidenav();
-
-
-})(jQuery); // end of jQuery name space

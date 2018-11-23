@@ -24,7 +24,7 @@ nav img {
 }
 
 .collection-item .date-1 {
-  position: absolute;
+    position: absolute;
     width: 42px;
     height: 42px;
     overflow: hidden;
@@ -36,14 +36,23 @@ nav img {
 
 .collection-item .date-2 {
   position: absolute;
-    width: 42px;
-    height: 42px;
-    overflow: hidden;
-    left: 15px;
-    top:30px;
-    display: inline-block;
-    vertical-align: middle;
-    font-size: 9px;
+  width: 42px;
+  height: 42px;
+  overflow: hidden;
+  left: 15px;
+  top:30px;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 9px;
+}
+
+.collection-item .more {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+
 }
 
 html {
