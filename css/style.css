@@ -45,3 +45,7 @@ nav img {
     vertical-align: middle;
     font-size: 9px;
 }
+
+html {
+  scroll-behavior: smooth;
+}
