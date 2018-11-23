@@ -12,3 +12,36 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+/* Logo */
+nav img {
+  height: 50px;
+}
+
+#index-banner {
+  background-image: url(http://www.domaine-rabiega.com/images/domaine/domaine-vignoble-4.jpg);
+  background-size: cover;
+}
+
+.collection-item .date-1 {
+  position: absolute;
+    width: 42px;
+    height: 42px;
+    overflow: hidden;
+    left: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 9px;
+}
+
+.collection-item .date-2 {
+  position: absolute;
+    width: 42px;
+    height: 42px;
+    overflow: hidden;
+    left: 15px;
+    top:30px;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 9px;
+}
