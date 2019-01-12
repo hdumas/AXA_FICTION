@@ -10,7 +10,7 @@
     $('.slider').slider();
     $('.parallax').parallax();
     $('.modal').modal();
-    $('.scrollspy').scrollSpy();
+    $('.scrollspy').scrollSpy({throttle: 1000});
     $('.button-collapse').sidenav({'edge': 'left'});
     $('.datepicker').datepicker({selectYears: 20});
     $('select').not('.disabled').formSelect();

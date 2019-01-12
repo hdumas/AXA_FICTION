@@ -3496,6 +3496,12 @@ td, th {
 
 }
 
+.client a {
+  position: absolute;
+  bottom: 5%;
+  margin: 0px 20px;
+}
+
 .clients .client .logo,
 .section.clients .client .logo {
   position: absolute;
