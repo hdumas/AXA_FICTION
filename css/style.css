@@ -153,7 +153,7 @@ nav img {
   width:100vw;
   z-index:1;
   background:#000000;
-  opacity:0.85;
+  opacity:0.55;
 }
 
 .video-content {
@@ -212,11 +212,11 @@ nav {
 
 
 .background-perso-1 {
-  background-color: #4E9CC9;
+  background-color: #fc2700;
 }
 
 .background-perso-2 {
-  background-color: #CD543A;
+  background-color: #00A9E3;
 }
 
 

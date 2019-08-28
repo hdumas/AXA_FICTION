@@ -3491,7 +3491,7 @@ td, th {
 .client p {
   position: absolute;
   bottom: 15%;
-  margin: 0px 20px;
+  margin: 0px 30px;
   font-weight: bolder;
 
 }
@@ -3499,7 +3499,7 @@ td, th {
 .client a {
   position: absolute;
   bottom: 5%;
-  margin: 0px 20px;
+  margin: 0px 30px;
 }
 
 .clients .client .logo,
